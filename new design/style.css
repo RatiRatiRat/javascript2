@@ -1,0 +1,275 @@
+div.navbar{
+    margin: auto;
+    width: 375px; height: 80px;background-color:#FFF; display: flex;
+}
+
+img.logo{margin-left: 24px; margin-top: 31px; width: 112px; height: 18px;
+
+
+}
+
+img.menu{
+
+    width: 32px; height: 32px; margin-left: 169px; margin-top: 24px;
+}
+
+img.haha{display: none;}
+
+
+div.maincont{width: 375px; height: 3851px; background-color: #FFF; margin: auto;}
+
+body{margin: 0%;  background-color: #837D88;;}
+
+div.shesavali{width: 375px; height: 965px; margin: auto; background-color:#2D2641 ;
+    
+
+}
+
+h1{
+    color: #FFF;
+    text-align: center;
+    font-family: DM Serif Display;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 48px; /* 100% */
+    letter-spacing: -0.667px;
+    margin-left: 24px; margin-right: 24px; margin-top: 93px;
+
+
+
+}
+
+p.kaladze{
+
+    color: #FFF;
+    text-align: center;
+    font-family: Karla;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+
+button.view{
+
+    width: 146px;
+    height: 40px;
+
+    border: 1.5px solid #FFF;
+
+    background-color: #2D2641;
+
+
+    color: #FFF;
+text-align: center;
+font-family: Karla;
+font-size: 13px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 1.5px;
+margin-left: 115px; margin-top: 32px;
+}
+
+
+
+
+
+
+
+
+
+div.testimonial{width: 327px; height: 1031px; margin: auto; background-color: #FFF;}
+
+h1.p{
+
+    width: 327px;
+    height: 48px;
+    flex-shrink: 0;
+    color: #2C2830;
+    text-align: center;
+    font-family: DM Serif Display;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 48px; /* 100% */
+    letter-spacing: -0.667px;
+    margin-left: 0;    margin-top: 0; margin-right: 0;  margin-bottom: 120px;   margin-top: 180px;
+}
+
+
+div.gridcont{ height: 862px; background-color: #FFF;  display: grid;
+   
+}
+
+div.gitem{grid-template-columns: 327px; height: 250px;  width: 327px;}
+
+img.photo{margin-left: 120px;}
+
+h1.zaza{
+
+    width: 327px;
+    height: 38px;
+    flex-shrink: 0;
+
+    color: #2C2830;
+text-align: center;
+font-family: DM Serif Display;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.389px;
+margin-left: 0; margin-right: 0 ;  margin-top: 32px;
+}
+
+p.xvicha{width: 327px;height: 78px; color: #837D88;  line-height: 26px; font-style: normal; font-weight: 400; font-size: 16px;
+         text-align: center;}
+
+
+
+
+
+
+
+
+
+div.find-out{width: 327px; height: 344px; background-color: #2D2641; margin: auto;  margin-top: 140px;}
+
+
+h1.miki{
+
+    width: 279px;
+    height: 120px;
+    flex-shrink: 0;
+
+
+
+    color: #FFF;
+text-align: center;
+font-family: DM Serif Display;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: 40px; /* 100% */
+letter-spacing: -0.556px;
+padding-top: 72px;
+
+}
+
+
+button.vefxvi{     margin: auto;
+    width: 160px;
+    height: 40px;
+    flex-shrink: 0;
+background-color: #2D2641;
+
+color: #FFF;
+text-align: center;
+font-family: Karla;
+font-size: 13px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 1.5px;
+
+border: solid #FFF;
+margin-left: 90px;
+margin-top: 53px;
+
+}
+
+
+
+
+
+
+
+div.footer{
+
+width: 375px; height: 1025px; margin: auto; background-color: #FFF ;   margin-top: 5px;
+
+}
+
+
+div.wvima{
+
+    width: 375px; background-color: #FFF; height: 327px;  margin-top: 0px; padding-bottom: 10px; margin-bottom: 0px;
+
+
+}
+
+img.cr7{margin-left: 130px; margin-top: 180px;}
+
+img.lm10{margin-left: 115px; margin-top: 32px;}
+
+
+
+
+div.last{width: 327px; height: 694px; background-color: #FFF;   margin: auto;  display: flex; justify-content: center;   flex-direction: column; margin-top: 20px;  }
+
+
+
+h3.flx{color: #2D2641;font-weight: 700; font-size: 13px; letter-spacing: 1.5px; width: 327px; height: 15px;gap: 15px;display: flex; justify-content: center;}
+h3.davigale{color: #837D88; font-weight: 700; font-size: 13px; letter-spacing: 1.5px; width: 327px; height: 15px;gap: 10px; display:flex;justify-content: center; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:1024px) {    
+
+  body { background-color: #FFF; margin: 0%; }  
+  
+  div.maincont{width: 1440px; height: 600px; margin: auto; }
+  div.navbar{width: 1440px; height: 80px;}   div.shesavali{width: 1440px; height: 600px;display: flex;margin: auto; }   img.menu{display: none;}
+
+  img.n1{display: none;} img.haha{width: 540px; height: 650px;   display: block; margin-left: 30px; margin-top: 130px;  }  h1{width: 300px; height: 140px;text-align: start; margin-left: 0px;   }  p.kaladze{width: 540px; height: 84px;  text-align: start;}
+
+
+
+  div.testimonial{width: 1110px; height: 474px; margin: auto;}     div.last{display: grid; grid-template-columns: auto auto auto auto; margin-top: 60px;  }  
+
+  div.gridcont{display: flex; margin: auto;}       button.view{margin-left: 0px;}   div.gridcont{gap: 60px;}  img.photo{margin-left: 0px;}   p.xvicha{width: 350px; height: 78px; display: inline;}   h1.zaza{display: flex; margin-left: 0px;}              
+
+
+
+  h1.p{width: 700px; height: 70px; font-size: 72px; display: flex; padding-top: 180px;    }      div.gaertianeba{margin-top: 60px; margin-left: 120px;    }
+
+  div.find-out{width: 1110px; height: 250px;  margin-top: 350px;  } h1.miki{width: 414px; height: 140px;} button.vefxvi{margin-left: 800px; margin-top: 0px;}   div.footer{width: 1440px; height: 393px; margin-top: 150px;}
+
+  div.wvima{display: inline;}   img.cr7{margin-top: 0px; padding-right: 800px;}
+
+  h3.flx{font-size: 20px;} h3.davigale{font-size: 20px;}
+
+}
+
+
+
+
+
+
+
