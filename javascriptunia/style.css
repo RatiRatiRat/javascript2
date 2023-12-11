@@ -1,0 +1,264 @@
+div.main{width: 375px; height: 1024px; margin: auto;   background-color: #FF7979; background-image: url(Group\ 5\ \(2\).svg);  padding-top: 16px;   }
+
+body{
+    margin: 0;
+}
+
+div.header{
+
+    width: 327px; height: 210px; background-color:#FF7979 ;  margin: auto;
+}
+
+
+h1{
+    color: #FFF;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; /* 128.571% */
+    letter-spacing: -0.292px;
+
+
+}
+
+
+
+p{
+    color: #FFF;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma,  Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+}
+
+
+
+
+div.rectangle{
+
+width: 327px;     height: 88px;
+
+border-radius: 10px;
+background: #5E54A4;
+box-shadow: 0px 8px 0px 0px rgba(0, 0, 0, 0.15);     margin: auto;  margin-top: 64px;
+}
+
+
+h4{
+    width: 194px;   height: 52px;
+    padding-top: 18px; padding-left: 67px;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 173.333% */
+    letter-spacing: 0.268px;
+
+}
+
+
+span{
+
+   
+    color: #FFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.268px;
+
+
+}
+
+
+
+div.form{
+
+    width: 327px;
+    height: 510px;
+    flex-shrink: 0;
+
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 8px 0px 0px rgba(0, 0, 0, 0.15);
+
+    margin: auto; margin-top: 24px;   padding-top: 16px;
+
+}
+
+
+
+div.first,div.last,div.email,div.passwrd{
+
+    width: 279px;
+    height: 56px;
+    flex-shrink: 0;
+
+    border-radius: 5px;
+    border: 1px solid #DEDEDE;
+    background: #FFF;
+    display: flex;
+
+    margin-left: 24px; margin-top: 16px;   
+
+}
+
+img.nadziralaaaa{ display: flex;
+
+    width: 24px; height: 56px; margin-left: 50px; margin-right: 16px;   ;   display: none;
+}
+
+.nadziralaaaa.active{
+    display: block;
+}
+
+
+
+
+
+button.rectangle2{
+
+    border-color: #38CC8B;
+    width: 279px;
+    height: 56px;
+    flex-shrink: 0;
+
+    border-radius: 5px;
+    background: #38CC8B;
+    box-shadow: 0px -4px 0px 0px rgba(0, 0, 0, 0.09) inset;
+    margin-left: 24px; margin-top: 16px;
+    color: #FFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    cursor: pointer;
+}
+
+
+button:hover{
+    background-color: #77E2B3;
+}
+
+
+
+
+
+
+
+div.footer{
+    width: 249px; height: 42px; margin: auto;
+}
+
+
+h3{
+    color: #BAB7D4;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21px; /* 190.909% */
+
+}
+
+input{border: 0px;}
+
+::placeholder{color: #5E54A4; font-size: 20px;}
+
+
+label{display: none;}
+
+
+h8{margin-left: 110px; color: red; display: none;   }
+
+
+@media (min-width:1024px) {
+    
+html{background-color: #FF7979;}    
+
+div.main{
+    width: 1440px; height: 800px; display: grid;  grid-template-columns: auto auto ;
+}
+
+div.rectangle{
+    width: 540px; height: 60px;
+}
+
+
+h4{
+    width: 316px; height: 26px;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 173.333% */
+    letter-spacing: 0.268px;
+
+}
+
+
+div.form{
+    width: 540px; height: 479px;
+}
+
+
+div.first,div.last,div.email,div.passwrd{
+
+width: 460px; height: 56px;
+
+
+}
+
+button.rectangle2{
+  
+    width: 460px; height: 56px;
+
+
+}
+
+
+
+div.footer{
+
+width: 367px; height: 26px;
+
+}
+
+img.nadziralaaaa{
+
+    margin-left: 240px; margin-right: 16px;
+}
+
+
+h1{
+  line-height: normal;
+  font-size: 50px;
+  width: 535px;
+  height: 100px;
+  margin-top: 0px;
+
+}
+
+p{
+
+width: 525px;
+margin-top: 25px;
+padding-top: 20px;
+
+
+
+
+}
+
+
+
+
+
+
+
+}
