@@ -1,0 +1,375 @@
+div.main{
+
+ width: 375px;
+ height:744px ;
+background-image: url(bg-weather.png);
+margin: auto;
+
+
+}
+
+
+body{
+
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+
+div.navbar{
+
+    background-color: transparent;
+    width: 374px;
+    height: 60px;
+    display: flex;
+
+}
+
+img{
+
+    width: 39px;
+    margin-left: 22px;
+}
+
+
+input{
+
+    width: 132px;
+    height: 25.2px;
+    margin-left: 168px;
+    margin-top: 19px;
+    padding: 0;
+    background-image: url(fa_search.svg);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: right;
+    border: 3px solid  ;
+    border-color: transparent transparent white transparent;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+div.prognozi{
+    
+    
+    width: 270px ;
+    height: 85px;
+    background-color: transparent;
+    margin-top: 102px;
+    margin-left: 22px;
+    display: flex;
+    margin-bottom: 48px;
+
+}
+
+
+h3{
+    margin-top: 0px; margin-bottom: 0px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -5.12px;
+
+}
+
+p{
+    margin-top: 0px; margin-bottom: 0px;
+    width: 139px;
+    height: 25.217px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 10px;
+    margin-top: 18px;
+}
+
+
+span{
+    width: 139px;
+    height: 8.696px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: block;
+   
+}
+
+
+img.Screenshot{
+    margin-top: 24px;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    background-color: transparent;
+
+}
+
+div.blur{
+ 
+    width: 375px;
+    height: 445px;
+    background-color: transparent;
+    backdrop-filter: blur(9.5px);
+
+}
+
+
+h4{
+    display: flex; 
+    justify-content: center;
+    padding-top: 55px;
+    color: #FFF;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+
+
+div.table{
+    display: grid;
+    width: 285px;
+    height: 350px;
+    background-color: transparent;
+    margin: auto;
+    grid-template-columns: 199px;
+    row-gap: 30px;
+}
+
+
+h5{
+    width: 285px; height: 16px;
+    color: #FFF;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+margin-bottom: 0px;
+}
+
+.grid-item{
+    width: 285px;
+    height: 20px;
+    word-spacing: 140px;
+    display: flex;
+    color: #FFF;
+}
+
+img.vector{
+    height: 19px;
+    width: 19px;
+    display: flex;
+    margin-left: 5px;
+}
+
+.grid-item4{
+    word-spacing: 160px;
+    width: 285px;
+    height: 20px;
+    
+    display: flex;
+    color: #FFF;
+}
+
+
+@media  (min-width:768px) {
+
+   div.main{
+        width: 767px;
+        height: 1049px;
+        margin: auto;
+        background-image: url(bg-weather\ \(1\).png);
+    }
+
+
+    div.navbar{
+
+        width: 766px;
+        height: 90px;
+        display: flex;
+    }
+
+    img{
+        width: 60px;
+        height: 31px;
+        margin-top: 25px;
+    }
+
+    input{
+  
+        width: 305px;
+        height: 45px;
+        margin-left: 325px;
+        margin-top: 13px;
+
+
+    }
+
+    div.prognozi{
+
+        width: 300px;
+        height: 140px;
+        margin-left: 39px;
+    }
+
+    h3{
+
+        width: 161px;
+        height: 141px;
+        color: #FFF;
+        font-family: 'Roboto', sans-serif;
+        font-size: 120px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: -9.6px;
+
+
+    }
+    
+    p{ 
+        width: 189px;
+        height: 53px;
+        margin-top: 0px; margin-bottom: 0px;
+        color: #FFF;
+        font-family: 'Roboto', sans-serif;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-top: 30px;
+        margin-left: 18px;
+    }
+
+    span{
+
+        width: 190px;
+        height: 14px;
+        color: #FFF;
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+
+
+    }
+
+    img.Screenshot{
+
+        width: 100px;
+        height: 100px;
+        
+    }
+
+
+    div.blur{
+
+        width: 767px;
+        height: 667px;
+
+
+    }
+
+    div.table{
+
+        width: 385px;
+        height: 400px;
+        margin-left: 230px
+
+
+    }
+
+    div.grid-item{
+
+        width: 385px;
+        
+
+
+    }
+
+    img.vector{
+        margin-top: 0px;
+    }
+
+
+
+}
+    
+
+
+@media (min-width:1440px) {
+   
+    div.main{
+
+        display: grid;
+        grid-template-rows: auto ;
+        width: 1439px;
+        height: 806px;
+        background-image: url(bg-weather\ \(2\).png);
+        background-repeat: no-repeat;
+        
+    }
+
+
+    body{
+         overflow-x:hidden;
+    }
+
+
+    div.zaza{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+
+    div.blur{
+        margin-left: 567px;
+        width: 526px;
+    }
+
+
+    div.table{
+        margin-left: 120px;
+    }
+
+    div.prognozi{
+        margin-top: 400px;
+    }
+
+    div.navbar{
+
+        width: 1439px;
+        height: 105px;
+       
+
+
+    }
+
+    input{
+        margin-left: 799px;
+        margin-top: 0px;
+        backdrop-filter: blur(9px);
+        height: 120.8px;
+        width: 524px;
+    }
+
+    img{
+        width: 90px;
+        height: 47px;
+    }
+
+}

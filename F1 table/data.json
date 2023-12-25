@@ -1,0 +1,65 @@
+{ 
+    "racers": [
+      {
+        "name": "Lewis",
+        "lastname": "Hamilton",
+        "age": 36,
+        "career_wins": 103
+      },
+      {
+        "name": "Max",
+        "lastname": "Verstappen",
+        "age": 24,
+        "career_wins": 54
+      },
+      {
+        "name": "Valtteri",
+        "lastname": "Bottas",
+        "age": 32,
+        "career_wins": 10
+      },
+      {
+        "name": "Charles",
+        "lastname": "Leclerc",
+        "age": 24,
+        "career_wins": 5
+      },
+      {
+        "name": "Sebastian",
+        "lastname": "Vettel",
+        "age": 34,
+        "career_wins": 53
+      },
+      {
+        "name": "Alain",
+        "lastname": "Prost",
+        "age": 68,
+        "career_wins": 51
+      },
+      {
+        "name": "Kimi",
+        "lastname": "Raikkonen",
+        "age": 44,
+        "career_wins": 21
+      },
+      {
+        "name": "Michael",
+        "lastname": "Schumacher",
+        "age": 54,
+        "career_wins": 91
+      },
+      {
+        "name": "Fernando",
+        "lastname": "Alonso",
+        "age": 40,
+        "career_wins": 32
+      },
+      {
+        "name": "Ayrton",
+        "lastname": "Senna",
+        "age": 34,
+        "career_wins": 41
+      }
+    ]
+  }
+  
