@@ -1,0 +1,277 @@
+body{
+    font-family:  'Poppins', sans-serif;
+    
+}
+div.main{
+
+    width: 428px;
+    height: 1503px;
+    background: linear-gradient(180deg, #DEE4E7 0%, #F4F2F2 100%);
+    margin: auto;
+
+}
+
+
+div.navbar{
+    
+    display: flex;
+    width: 427px;
+    height: 47px;
+   
+   
+
+}
+
+img.photo1{
+    margin-left: 25px;
+    width: 84px;
+    height: 31px;
+    margin-top: 5px;
+}
+
+img.america{
+    margin-left: 150px;
+    width: 26px;
+    height: 26px;
+    margin-top: 7px;
+    margin-right: 35px;
+}
+
+img.search{
+    width: 26px;
+    height: 26px;
+    margin-top: 7px;
+    margin-right: 35px;
+}
+
+
+img.menu{
+    width: 26px;
+    height: 26px;
+    margin-top: 7px;
+}
+
+
+div.paragraph{
+    
+   
+    width: 338px;
+    height: 90px;
+    margin-top: 50px;
+    margin-left: 30px;
+
+}
+
+p.paragraph{
+    margin: auto;
+    font-size: 30px;
+    background: linear-gradient(180deg, #2E386B 46.43%, #D1D1D1 110.05%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 35px;
+}
+
+div.grid-container0{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+
+.grid-item1{
+
+    width: 181px;
+    height: 171px;
+    background-color: #FFF;
+    margin-bottom: 10px;
+    border-radius: 18px;
+}
+
+
+.grid-item2{
+
+    width: 181px;
+    height: 171px;
+    background-color: #FFF;
+    border-radius: 18px;
+}
+
+   
+
+.grid-item3{
+
+    width: 181px;
+    height: 171px;
+    background-color: #FFF;
+    margin-bottom: 10px;
+    border-radius: 18px;
+}
+
+
+
+.grid-item4{
+
+    width: 181px;
+    height: 171px;
+    background-color: #FFF;
+    border-radius: 18px;
+}
+
+
+
+.grid-item5{
+
+    width: 181px;
+    height: 171px;
+    background-color: #FFF;
+    margin-bottom: 10px;
+    border-radius: 18px;
+}
+
+
+
+.grid-item6{
+
+    width: 181px;
+    height: 171px;
+    background-color: #FFF;
+    border-radius: 18px;
+}
+
+
+
+.grid-item7{
+
+    width: 181px;
+    height: 171px;
+    background-color: #FFF;
+    margin-bottom: 10px;
+    border-radius: 18px;
+}
+
+
+.grid-item8{
+
+    width: 181px;
+    height: 171px;
+    background-color: #FFF;
+    border-radius: 18px;
+}
+
+
+.grid-item9{
+
+
+    width: 181px;
+    height: 171px;
+    background-color: #FFF;
+    margin-bottom: 10px;
+    border-radius: 18px;
+}
+
+
+
+.grid-item10{
+
+    width: 181px;
+    height: 171px;
+    background-color: #FFF;
+    border-radius: 18px;
+
+}
+
+
+.grid-item11{
+
+    width: 181px;
+    height: 171px;
+    background-color: #FFF;
+    border-radius: 18px;
+}
+
+
+.grid-item12{
+
+    width: 181px;
+    height: 171px;
+    background-color: #FFF;
+    border-radius: 18px;
+
+}
+
+img.aries{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 45px;
+}
+
+
+h5{
+    font-size: 22px;
+    margin-left: 65px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+
+
+h5.Taurus{
+    font-size: 22px;
+    margin-left: 55px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+h5.Leo{
+
+    font-size: 22px;
+    margin-left: 75px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+
+
+}
+
+
+h5.sagi{
+
+    font-size: 22px;
+    margin-left: 35px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+
+}
+
+
+h5.capri{
+    font-size: 22px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+
+h5.Aqua{
+
+    font-size: 22px;
+    margin-left: 45px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+
+
+
+}
+
+
+h5.Virgo{
+
+    font-size: 22px;
+    margin-left: 60px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+
+
+}
